@@ -1,0 +1,11 @@
+#DEPENDENCIES
+/node_modules
+
+#DEPENDENCIES SERVER
+/server/node_modules
+/server/.env
+
+#DEPENDENCIES CLIENT
+/client/node_modules
+
+
